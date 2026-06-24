@@ -1,1 +1,1 @@
-I've heard horror stories about people rebasing shared branches and causing chaos
+I've heard horror stories about people rebasing shared branches and causing trouble
